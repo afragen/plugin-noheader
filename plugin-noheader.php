@@ -7,3 +7,7 @@
  * Author: Andy Fragen
  * Description: This is a test plugin for GitHub Updater. It is empty.
  */
+
+/**
+ * Adding some testing comments.
+ */
